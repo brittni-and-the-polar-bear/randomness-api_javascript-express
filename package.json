@@ -1,0 +1,38 @@
+{
+  "name": "randomness-api_javascript-express",
+  "private": true,
+  "version": "0.1.0",
+  "description": "A web API devoted to randomness and joy.",
+  "keywords": [
+    "api",
+    "random"
+  ],
+  "homepage": "https://github.com/brittni-and-the-polar-bear/randomness-api_javascript-express#readme",
+  "bugs": {
+    "url": "https://github.com/brittni-and-the-polar-bear/randomness-api_javascript-express/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brittni-and-the-polar-bear/randomness-api_javascript-express.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "brittni and the polar bear LLC",
+    "url": "https://brittni-and-the-polar-bear.github.io/"
+  },
+  "contributors": [
+    {
+      "name": "brittni watkins",
+      "url": "https://blwatkins.github.io/"
+    },
+    {
+      "name": "azurepolarbear",
+      "url": "https://azurepolarbear.github.io/"
+    }
+  ],
+  "type": "module",
+  "main": "./src/index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
