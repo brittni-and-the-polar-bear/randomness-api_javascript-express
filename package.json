@@ -33,7 +33,9 @@
   "type": "module",
   "main": "./src/index.mjs",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./src/index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./src/index.mjs"
   },
   "dependencies": {
     "express": "^5.1.0"
